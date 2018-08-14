@@ -14,7 +14,7 @@ Create and bind NTLM Machine Account
 #. From "corporate-pc"
 
 #. Open IE to access F5 Admin GUI at,
-   ``https://f5-bigip1a.demosifun.net``
+   ``https://f5-bigip1a.demoisfun.net``
 
    - Username: ``admin``
    - Password: ``password``
