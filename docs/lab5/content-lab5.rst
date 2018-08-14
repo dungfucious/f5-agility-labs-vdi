@@ -54,7 +54,7 @@ Task 1 – Build a VIP with an Access Policy allowing access to VMware and Citri
    - Under *Citrix Receiver*, click **change** link
    - Click **Add Expression** button
    - In *Agent Sel* pulldown, select **UI Mode**
-   - In *UI Mode is* pulldown, select **Citrix Reciever**
+   - In *UI Mode is* pulldown, select **Citrix Receiver**
    - Click **Add Expression** button
    - Click **Finished** button
    - Click **Save** button (this takes a while) 
