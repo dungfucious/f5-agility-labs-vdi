@@ -156,7 +156,7 @@ Test the connection server load balancing using both VMware View client and brow
 
 #. From *"corporate-pc"*
 
-#. Launch View client and connect to the Virtual Server just created with iApp
+#. Launch Horizon client (and connect to the Virtual Server just created with iApp)
 
 #. Click **New Server**
 
